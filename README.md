@@ -1,2 +1,3 @@
 # codewars-challenges
-Desafios do Codewars
+
+Desafios do Codewars em Typescript e Javascript
